@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-18T21:10:49 ICT" name="Default suite" finished-at="2022-08-18T21:11:39 ICT" duration-ms="49526">
+    <groups>
+    </groups>
+    <test started-at="2022-08-18T21:10:49 ICT" name="Default test" finished-at="2022-08-18T21:11:39 ICT" duration-ms="49526">
+      <class name="com.juaracoding.pageobject.TestForm">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoding.pageobject.TestForm@6babf3bf]" started-at="2022-08-18T21:10:49 ICT" name="setUp" finished-at="2022-08-18T21:11:32 ICT" duration-ms="42460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:com.juaracoding.pageobject.TestForm@6babf3bf]" started-at="2022-08-18T21:11:32 ICT" name="pageObject" finished-at="2022-08-18T21:11:32 ICT" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="testForm()[pri:0, instance:com.juaracoding.pageobject.TestForm@6babf3bf]" started-at="2022-08-18T21:11:32 ICT" name="testForm" finished-at="2022-08-18T21:11:34 ICT" duration-ms="2429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForm -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.juaracoding.pageobject.TestForm@6babf3bf]" started-at="2022-08-18T21:11:34 ICT" name="closeBrowser" finished-at="2022-08-18T21:11:39 ICT" duration-ms="4404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.juaracoding.pageobject.TestForm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
